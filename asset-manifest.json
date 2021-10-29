@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/royal_pangolin_io/static/css/main.8bafa072.chunk.css",
-    "main.js": "/royal_pangolin_io/static/js/main.72f6e29c.chunk.js",
-    "main.js.map": "/royal_pangolin_io/static/js/main.72f6e29c.chunk.js.map",
+    "main.css": "/royal_pangolin_io/static/css/main.1a540f0b.chunk.css",
+    "main.js": "/royal_pangolin_io/static/js/main.91c4ce2f.chunk.js",
+    "main.js.map": "/royal_pangolin_io/static/js/main.91c4ce2f.chunk.js.map",
     "runtime-main.js": "/royal_pangolin_io/static/js/runtime-main.07fab588.js",
     "runtime-main.js.map": "/royal_pangolin_io/static/js/runtime-main.07fab588.js.map",
     "static/css/2.a1e8b730.chunk.css": "/royal_pangolin_io/static/css/2.a1e8b730.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.6b4b79e8.chunk.js.map": "/royal_pangolin_io/static/js/3.6b4b79e8.chunk.js.map",
     "index.html": "/royal_pangolin_io/index.html",
     "static/css/2.a1e8b730.chunk.css.map": "/royal_pangolin_io/static/css/2.a1e8b730.chunk.css.map",
-    "static/css/main.8bafa072.chunk.css.map": "/royal_pangolin_io/static/css/main.8bafa072.chunk.css.map",
+    "static/css/main.1a540f0b.chunk.css.map": "/royal_pangolin_io/static/css/main.1a540f0b.chunk.css.map",
     "static/js/2.7965f36c.chunk.js.LICENSE.txt": "/royal_pangolin_io/static/js/2.7965f36c.chunk.js.LICENSE.txt",
     "static/media/index.css": "/royal_pangolin_io/static/media/cursor.64c037e0.cur",
     "static/media/Heart_Pangolin.fa07207b.png": "/royal_pangolin_io/static/media/Heart_Pangolin.fa07207b.png",
@@ -45,7 +45,7 @@
     "static/js/runtime-main.07fab588.js",
     "static/css/2.a1e8b730.chunk.css",
     "static/js/2.7965f36c.chunk.js",
-    "static/css/main.8bafa072.chunk.css",
-    "static/js/main.72f6e29c.chunk.js"
+    "static/css/main.1a540f0b.chunk.css",
+    "static/js/main.91c4ce2f.chunk.js"
   ]
 }
